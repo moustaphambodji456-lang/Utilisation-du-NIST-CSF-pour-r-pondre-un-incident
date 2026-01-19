@@ -1,5 +1,5 @@
 # Utilisation-du-NIST-CSF-pour-repondre-un-incident
-Projet réalisé lors de la certification Google Cybersecurity, mettant en pratique les notions fondamentales de la cybersécurité telles que la protection des systèmes, l’identification des vulnérabilités et la réponse aux incidents
+Projet réalisé lors de la certification Google Cybersecurity, mettant en pratique les notions en réponse d'incident et de la connaissance du framework NIST-CSF
  # Contexte
 Nous sommes analyste en cybersécurité travaillant pour une entreprise multimédia qui propose des services de conception web, de graphisme et des solutions de marketing pour les médias sociaux aux petites entreprises. Votre organisation a récemment subi une attaque DDoS, qui a compromis le réseau interne pendant deux heures jusqu'à ce qu'elle soit résolue.
 
