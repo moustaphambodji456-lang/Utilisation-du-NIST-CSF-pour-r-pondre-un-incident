@@ -18,3 +18,5 @@ Un logiciel de surveillance du réseau pour détecter les schémas de trafic ano
 Un système IDS/IPS pour filtrer une partie du trafic ICMP sur la base de caractéristiques suspectes
 
 En tant qu'analyste en cybersécurité, nous sommes chargés d'utiliser cet événement de sécurité pour élaborer un plan visant à améliorer la sécurité du réseau de votre entreprise, conformément au Cadre de cybersécurité (CSF) du NIST (National Institute of Standards and Technology). Nous utiliserons le CSF pour nous aider à parcourir les différentes étapes de l'analyse de cet événement de cybersécurité et à intégrer votre analyse dans une stratégie de sécurité générale.
+# Analyse
+Vous pouvez vérifier le travail effectué dans le fichier Incident Report Analysis ci-dessus.
